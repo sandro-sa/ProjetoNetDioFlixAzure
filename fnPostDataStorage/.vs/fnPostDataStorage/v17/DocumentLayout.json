@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fnpostdatabase\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|solutionrelative:fnpostdatabase\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|solutionrelative:fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fnpostdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|solutionrelative:fnpostdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fnpostdatabase\\movierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|solutionrelative:fnpostdatabase\\movierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetallmoveis\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|solutionrelative:fngetallmoveis\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B4BDC8-C350-4726-891C-46123695B745}|fnPostDataStorage\\fnPostDataStorage.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fnpostdatastorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77B4BDC8-C350-4726-891C-46123695B745}|fnPostDataStorage\\fnPostDataStorage.csproj|solutionrelative:fnpostdatastorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fnpostdatabase\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58EB5E92-DD8E-466C-9F9E-CCE088A91E23}|fnPostDatabase\\fnPostDatabase.csproj|solutionrelative:fnpostdatabase\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetallmoveis\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|solutionrelative:fngetallmoveis\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetalldetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|solutionrelative:fngetalldetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetalldetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|solutionrelative:fngetalldetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetalldetail\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|solutionrelative:fngetalldetail\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetalldetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAEDC814-82EC-484F-A3DC-6AB878C40409}|fnGetAllDetail\\fnGetAllDetail.csproj|solutionrelative:fngetalldetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetallmoveis\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|solutionrelative:fngetallmoveis\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|d:\\dio\\204\\projetonetflixdioazure\\fnpostdatastorage\\fngetallmoveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB73E72-6AEA-47F0-B9BF-7404096BE8BE}|fnGetAllMoveis\\fnGetAllMoveis.csproj|solutionrelative:fngetallmoveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRequest.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\MovieRequest.cs",
+              "RelativeDocumentMoniker": "fnPostDatabase\\MovieRequest.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\MovieRequest.cs",
+              "RelativeToolTip": "fnPostDatabase\\MovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:20:55.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "fnPostDatabase\\Program.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\Program.cs",
+              "RelativeToolTip": "fnPostDatabase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:20:51.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDataStorage\\local.settings.json",
+              "RelativeDocumentMoniker": "fnPostDataStorage\\local.settings.json",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDataStorage\\local.settings.json",
+              "RelativeToolTip": "fnPostDataStorage\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T20:13:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\local.settings.json",
+              "RelativeDocumentMoniker": "fnPostDatabase\\local.settings.json",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\local.settings.json",
+              "RelativeToolTip": "fnPostDatabase\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T20:12:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "host.json",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\host.json",
+              "RelativeDocumentMoniker": "fnPostDatabase\\host.json",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\host.json",
+              "RelativeToolTip": "fnPostDatabase\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T20:12:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\Function1.cs",
+              "RelativeDocumentMoniker": "fnPostDatabase\\Function1.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnPostDatabase\\Function1.cs",
+              "RelativeToolTip": "fnPostDatabase\\Function1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:12:47.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\Program.cs",
+              "RelativeDocumentMoniker": "fnGetAllDetail\\Program.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\Program.cs",
+              "RelativeToolTip": "fnGetAllDetail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:12:09.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieResult.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\MovieResult.cs",
+              "RelativeDocumentMoniker": "fnGetAllDetail\\MovieResult.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\MovieResult.cs",
+              "RelativeToolTip": "fnGetAllDetail\\MovieResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:12:08.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\local.settings.json",
+              "RelativeDocumentMoniker": "fnGetAllDetail\\local.settings.json",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\local.settings.json",
+              "RelativeToolTip": "fnGetAllDetail\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T20:12:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\Function1.cs",
+              "RelativeDocumentMoniker": "fnGetAllDetail\\Function1.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllDetail\\Function1.cs",
+              "RelativeToolTip": "fnGetAllDetail\\Function1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:11:53.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\Program.cs",
+              "RelativeDocumentMoniker": "fnGetAllMoveis\\Program.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\Program.cs",
+              "RelativeToolTip": "fnGetAllMoveis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:26:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieResult.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\MovieResult.cs",
+              "RelativeDocumentMoniker": "fnGetAllMoveis\\MovieResult.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\MovieResult.cs",
+              "RelativeToolTip": "fnGetAllMoveis\\MovieResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:26:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\local.settings.json",
+              "RelativeDocumentMoniker": "fnGetAllMoveis\\local.settings.json",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\local.settings.json",
+              "RelativeToolTip": "fnGetAllMoveis\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T19:26:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\Function1.cs",
+              "RelativeDocumentMoniker": "fnGetAllMoveis\\Function1.cs",
+              "ToolTip": "D:\\Dio\\204\\ProjetoNetflixDioAzure\\fnPostDataStorage\\fnGetAllMoveis\\Function1.cs",
+              "RelativeToolTip": "fnGetAllMoveis\\Function1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:24:15.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
