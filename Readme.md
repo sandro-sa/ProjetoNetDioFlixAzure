@@ -17,6 +17,7 @@ Para executar este projeto, você precisa ter as seguintes ferramentas instalada
 - Visual Studio (ou IDE de sua preferência)
 - .NET 8.0
 - Postman (para testar as APIs)
+- Conta no Microsoft Azure
 
 
 ---
